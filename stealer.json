@@ -1,6 +1,6 @@
 {
-   "merchantId":victim id,
-   "key":"vkcoin key",
-   "toId":your id,
-   "amount": vkcoins amout 1000vkc = 1000000
+   "merchantId"://victim id,
+   "key":"", // vkcoin api key
+   "toId": //your id,
+   "amount": //vkcoins amout 1000vkc = 1000000
 }
